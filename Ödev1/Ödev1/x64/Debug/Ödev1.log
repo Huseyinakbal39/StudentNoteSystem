@@ -1,0 +1,35 @@
+﻿  Ödev1.cpp
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(92,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(98,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(105,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(111,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(126,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(132,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(139,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(145,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(160,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(166,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(173,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(179,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(194,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(200,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(207,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(213,33): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(228,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(234,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(241,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(247,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(262,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(268,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(275,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(281,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(296,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(302,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(309,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(315,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(363,19): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(365,63): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(454,17): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(470,79): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\Ödev1\Ödev1.cpp(523,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Ödev1.vcxproj -> C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\Ödev1\x64\Debug\Ödev1.exe
